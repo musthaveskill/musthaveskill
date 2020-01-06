@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Must Have Skill
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: What is the PROBLEM
+subheading: Musings of creating an app
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: 'The IDEA: "Blog-O-Matic"'
+  description: >-
+    Blog-O-Matic is an app I'm creating to allow anyone with a phone to create
+    and launch a custom blogging website  automatically with the push of a
+    button.
+description: ' It is still too complicated for an average non-tech-savvy person to use their phone to generate a professional blog with a custom domain, use text or speech to publish an article, and then generate social cards that post a link for anyone to view.   2019 has shown that documenting anything related to someones passion or lifestyle  in the form of a website-blog or podcast is valuable for anyone. Blogs from people just learning to code have been treated like resumes and landed jobs.'
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +40,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: What can it do
+  description: Add value to your future
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +59,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
