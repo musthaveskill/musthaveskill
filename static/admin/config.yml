@@ -10,7 +10,13 @@ backend:
 
 media_folder: static/img
 public_folder: /img
-
+media_library: {
+      name: 'cloudinary',
+      config: {
+        cloud_name: 'musthaveskill',
+        api_key: '788289852761427'
+      }
+    }
 collections:
   - name: "blog"
     label: "Blog"

@@ -14,7 +14,7 @@ module.exports = {
         name: 'uploads',
       },
     },
-    {
+    { 
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
@@ -62,6 +62,18 @@ module.exports = {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `skill`,
+        // short_name: `skill`,
+        // start_url: `/`,
+        // background_color: `#f7f0eb`,
+        // theme_color: `#a2466c`,
+        icon: 'src/img/blogomatic.png',
+        display: `standalone`,
       },
     },
     {
