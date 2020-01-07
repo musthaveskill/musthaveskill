@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Must Have Skill
-image: /img/home-jumbotron.jpg
+image: /vectors/blog/welcome.svg
 heading: What is the PROBLEM
 subheading: Musings of creating an app
 mainpitch:
@@ -13,7 +13,7 @@ mainpitch:
 description: ' It is still too complicated for an average non-tech-savvy person to use their phone to generate a professional blog with a custom domain, use text or speech to publish an article, and then generate social cards that post a link for anyone to view.   2019 has shown that documenting anything related to someones passion or lifestyle  in the form of a website-blog or podcast is valuable for anyone. Blogs from people just learning to code have been treated like resumes and landed jobs.'
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /vectors/adventure_2.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
